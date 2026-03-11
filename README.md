@@ -9,12 +9,16 @@
   <img src="https://komarev.com/ghpvc/?username=konikatasniya-a11y&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="profile views" />
 </p>
 
+<h2 align="left">🌐 Connect With Me</h2>
 <p align="center">
   <a href="mailto:konikatasniya@gmail.com">
     <img src="https://img.shields.io/badge/Email-konikatasniya%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://github.com/konikatasniya-a11y">
     <img src="https://img.shields.io/badge/GitHub-konikatasniya--a11y-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://www.linkedin.com/in/tasnia-tasnim-cse/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tasnia%20Tasnim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://drive.google.com/file/d/1g0WpmyUCzufsEgadgAk_Kh3PKHMdsovY/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-View%20Resume-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" alt="resume" />
