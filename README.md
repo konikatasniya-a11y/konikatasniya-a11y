@@ -107,10 +107,10 @@
 </div>
 
 
-<!-- <h3 align="left">💻 Most Used Languages</h3>
+<h3 align="left">💻 Most Used Languages</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konikatasniya-a11y&layout=compact&theme=dracula" height="180" alt="Top languages" />
-</div> -->
+</div> 
 
 
 ---
