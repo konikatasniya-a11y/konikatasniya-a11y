@@ -1,4 +1,4 @@
-![logo](https://github.com/konikatasniya-a11y/konikatasniya-a11y/blob/main/github.png)
+![logo](https://github.com/konikatasniya-a11y/konikatasniya-a11y/blob/main/Innovative%20LinkedIn%20Banner%20for%20Emerging%20Software%20Developer.png)
 <h1 align="center">Hi 👋, I'm Tasnia Tasnim Konika</h1>
 <h3 align="center">A Passionate Frontend Developer from Bangladesh</h3>
 
